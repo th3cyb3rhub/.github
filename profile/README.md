@@ -67,7 +67,8 @@ Connect with us on <b>social media</b>:
     </a>
 </div>
 
-<b4/>
+<br>
+
 <div align="center">
   
   [![](https://visitcount.itsvg.in/api?id=th3cyb3rhub&label=Community%20Views&color=12&icon=2&pretty=false)](https://visitcount.itsvg.in)
