@@ -23,7 +23,7 @@ Check the contributing guidelines in each repository for guidance on how to get 
 ---
 <div align"center">
 <h3> Want to join the community? </h3> 
-Join the Thecyberworld GitHub Organisation by raising an <a href="https://github.com/th3cyb3rhub/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization"> issue </a>  (you will be sent an invitation)
+<!--Join the Thecyberworld GitHub Organisation by raising an <a href="https://github.com/th3cyb3rhub/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization"> issue </a>  (you will be sent an invitation) -->
   <br>
   <br>
 
